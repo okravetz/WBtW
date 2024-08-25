@@ -1,0 +1,121 @@
+*Updated: 2024-08-26*
+
+- [ ] Main Quest
+	- [ ] Find the Unicorn
+		- [ ] Search for the Unicorn in the Feywild
+			- [x] [[2. Mechanics/Non-Player Characters/Madryck Rosolf|Madryck Rosolf]] has lost communication with his good friend, [[Elidon]] the Unicorn, who resides in the [[The Feywild|Feywild]]
+			- [ ] We have found a Unicorn Horn at a [[Tinker, Bauble, and Charm]]'s shop in [[Downfall]] that came from [[1. World Almanac/WBtW/The Feywild/The Prismeer/Thither/Thither|Thither]]
+	- [ ] Defeat the Coven
+		- [x] We leaned that the previous ruler of this section of [[The Feywild|Feywild]] (aka [[The Prismeer]]) is named [[2. Mechanics/Non-Player Characters/Zybilna|Zybilna]]. She's been overthrown by a coven of hags, which include [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]].
+		- [x] The hags have been letting things slip in the Prismeer, leading to evidence of decay in [[Hither]] and a convergence of Carnivals
+		- [x] [[Tsu Harabax]] and [[Agdon Longscarf]] have suggested that defeating the hags and restoring the previous ruler will set things right
+			- [ ] Defeat Bavlorna
+				- [ ] [[Agdon Longscarf]] told us that Bav is allergic to creatures running widdershins and is using the power of the [[Sands of Time]] to rule [[1. World Almanac/WBtW/The Feywild/The Prismeer/Hither/Hither|Hither]]
+- The Witchlight Carnival
+	- [ ] Find our [[Lost Things]]
+		- [ ] When we were younger, we snuck into the Witchlight Carnival. We were caught by one of the shadar-kai that run the carnival and ever since then, had this sense that *something* was missing from our lives
+	- [ ] Investigate the overlapping Carnivals
+		- [x] While wandering around the Witchlight Carnival, we encountered carnies and attractions from another, darker [[The Carnival|Carnival]]
+		- [x] After gaining a second audience with Messers Witch & Light, we learned that the [[Hourglass Coven|coven]] that was supposed to be keeping the [[The Witchlight Carnival|two]] [[The Carnival|carnivals]] apart seemed to be breaking their pact
+		- [x] The shadar-kai regreted that they couldn't go fix the situation themselves, but were happy to enlist us in exchange for passage to the Feywild
+		- [ ] They suggested we investigate the hags and discover why their control was slipping
+	- [ ] Find the stolen child
+		- [ ] While in the hall of illusions, we saw a child-like figure wearing a pig mask push a child into the Fey Crossing
+	- [ ] Find [[Dirlagraun]]'s missing child
+		- [x] Dirla watched over the [[The Witchlight Carnival#_Lost Property|Lost Property]] wagon at the Witchlight Carnival but ironically was aware of other things and people getting lost
+		- [ ] Dirla also lamented that one of the people that got lost, possibly in the Feywild, was their own child, [[Star]]
+- The Feywild
+	- The Prismeer
+		- [ ] Hither
+			- [ ] Investigate the Coven
+				- [x] Messers Witch & Light asked us to uncover why the Witchlight Carnival seemed to be merging with another, darker carnival 
+				- [ ] Find Bavlorna Blightstraw
+					- [x] Sir Talavar said he was reporting back to the Unseelie Court on how Bavlorna and her sisters was causing this part of the Feywild to go to ruin
+					- [ ] Find [[King Gullup XIX]]
+						- [ ] The Bullywugs at the Slanty Tower told us that King Gullup would be able to get us an audience with the hag Bavlorna
+			- [ ] Investigate the mysterious memories
+				- [x] At the [[Gushing O'Wells]], [[Lorian Kethyar]] engaged with a greedy dretch. He got bit for and the dretch was handily destroyed by [[Caelen Fatesworn]].
+				- [x] Upon its destruction, the dretch dropped a mysterious orange crystal. Against the advice of the rest of the party, The Limit touched the crystal
+				- [ ] We then experienced a vision of a memory of a young girl, her sisters, and her mother, and watched as she grew into a young woman and a powerful witch
+			- [ ] Investigate the [[Inn at the End of the Road]]
+				- [x] Weary after a long day at the carnival, traveling the Feywild, and engaging in combat, we were fortunate to find rest at a mysterious Inn
+				- [x] The clientele were an eccentric group, but the proprietor, a human named [[Tsu Harabax]], was the strangest of all
+				- [x] She encouraged us to depose the hags and restore [[2. Mechanics/Non-Player Characters/Zybilna|Zybilna]] as ruler of the [[The Prismeer|Prismeer]]
+				- [ ] As we departed the inn, it departed as well on dozens of chicken feet
+			- [ ] Retrieve [[Clapperclaw]]'s proper head
+				- [x] Clapperclaw had his stag head taken from him by [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]] and wants it back.
+				- [ ] He has agreed to guide us through the mists if we can retrieve his head.
+			- [ ] Return Bavlorna's burn book
+				- [ ] [[King Gullup XIX]] has come into the possession of Bavlorna's burn book and has asked us to return it without it being known that he had in as a way to gain an audience with Bav. 
+			- [ ] Investigate the coup
+				- [x] While enjoying refreshments with [[King Gullup XIX]], [[Arwena Goldenrod]] received a secret message stating "Find Illig, the Baron of Muckstump, at once. The revolution lives!"
+				- [ ] Baron Slimetounge, a noble of [[The Soggy Court|Soggy Court]], informed us that he keeps a house in southern [[Downfall]]
+- Companion Quests
+	- [ ] The Pirate Without a Ship
+		- [ ] [[Arwena Goldenrod]] seeks adventure after her former party separated after having defeated a dwarven lich
+	- [ ] Son of Fate
+		- [ ] Bring balance to the weave
+			- [x] [[Caelen Fatesworn]] is bound by his oath to his mentor and the weapon he wields to save the Feywild from the darkness that assaults it
+			- [x] He has been alarmed by the incursions of a darker magic into the Witchlight Carnival and has entered the Feywild to investigate
+			- [ ] He has learned that the coven of hags, after usurping the previous ruler of The Prismeer, were supposed to be maintaining a balance. But they have failed in their duty.
+	- [ ] The Apprentice
+		- [ ] Become a Trash Plumber
+			- [x] [[Gedalia Goomber]] wants very badly to be initiated into the Trash Plumbers
+			- [ ] He has initiated an apprenticeship under [[Arwena Goldenrod]]
+	- [ ] The Bard
+		- [x] [[Lorian Kethyar]] shadow-writes for the greatest playwright in Gauntlgrym. But now, he is on the run after being the target of his master's assassination attempts.
+		- [x] In order to secure his position in society, he seeks the most epic story to turn into a play published in his own name
+		- [ ] He has made a fey pact with [[Agdon Longscarf]] to bring down the hag [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]] in return for Agdon's story
+	- [ ] The Timber and the Lake
+		- [x] Created as a weapon of destruction, [[The Limit]] has experienced multiple traumas and now is missing many of his formative memories
+		- [x] His system is out of balance as a result and now he seeks the crystals of the the Timber and the Lake to help him find internal balance and search for what he lost
+		- [x] In a game of Wild Jack at the [[Inn at the End of the Road]], The Limit learned that [[Agdon Longscarf]] may know of the location of the [[The Timber|Heart of the Forest]]
+		- [ ] He has made a fey pact with [[Agdon Longscarf]] to bring down the hag [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]] in return for access to the gem
+	- [ ] The Wandering Warrior
+		- [ ] [[Ulf Stormwind]] has left home to set off and do great deeds of his own to bring glory to his name and his clan
+- Completed Quests
+	- [x] Steal Mister Witch's [[Witchlight Watch]]
+		- [x] [[Burly]] told us that there were strange happenings and disappearances at the Witchlight Carnival. He suggested that getting some leverage over Messers. Witch & Light in the form of Mister Witch's Watch would allow us to confront them about it.
+		- [x] Arwena parkoured over the thorns of the [[The Witchlight Carnival#_Staff Area|Staff Area]] and stole the Watch
+		- [x] With watch in hand, Burly suggested getting another audience with the carnival owners by winning the [[Witchlight Monarch]] competition
+		- [x] We were going to confront him with the watch after the competition, but more pressing matters came to light, and [[The Limit]] returned the watch out of good faith]]
+	- [x] Find the missing carousel unicorn
+		- [x] After stealing the watch, we met up with Burley at the [[The Witchlight Carnival#Carousel|Carousel]]. The carny in charge, [[Diana Cloppington]],  said that the ride was closed because one of the enchanted wooden unicorns was missing
+		- [x] While the rest of the group was conspiring with Burly, [[Gedalia Goomber]] made a replacement unicorn out of the scrap wood he found lying around
+	- [x] Become the Witchlight Monarch
+		- [x] Burley suggested that someone in the group become the Witchlight Monarch in order to gain a second audience with Messers Witch & Light.
+		- [x] We attended the ceremony and astonished when [[Ulf Stormwind]] was ~~elected~~ crowned Witchlight Monarch
+	- [x] Find a way into [[The Feywild|the Feywild]]
+		- [x] Find a way into [[The Witchlight Carnival|the Witchlight Carnival]]
+			- [x] Madryck has indicated that there is a Fey Crossing in the Witchlight Carnival
+			- [x] We bought tickets and gained entry
+		- [x] Search for the Fey Crossing
+			- [x] We browsed the games and rides at the Witchlight Carnival
+			- [x] We got the the clues "HALL OF ILLUSIONS" and "MEET ME AT THE PALACE" at the [[The Witchlight Carnival#Mystery Mine|Mystery Mine]]
+			- [x] We snuck into the [[The Witchlight Carnival#Hall of Illusions|Hall of Illusions]] and found one mirror that was more mysterious and magical than the others, resonating with Fey energy
+		- [x] Find a way to activate the crossing
+			- [x] We tried to follow the 'palace' clue to the [[The Witchlight Carnival#Pixie Kingdom|Pixie Kingdom]], but it was a dead end
+			- [x] [[Arwena Goldenrod]] impressed the crowd at the [[The Witchlight Carnival#Big Top|Big Top]] and we got invited to meet [[Mister Witch]] and [[Mister Light]]
+			- [x] After confronting them about the overlapping carnivals and missing people, the proprietors agreed to let us into the Feywild in exchange for  help solve these problems
+	- [x] Investigate the [[hot air balloon]] crash
+		- [x] We arrived in the Feywild to find yourselves on a ruined elevated path. While climbing down, we saw a hot air balloon fall out of the sky in the direction of an off-kilter tower
+		- [x] We arrived at the [[Slanty Tower]] to discover it being guarded by some [[Bullywugs]]
+		- [x] The [[Bullywugs]] were chasing after a spy who escaped their master, [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]]
+		- [x] In exchange for being led to the hag, we offered to help catch the spy
+		- [x] They spy turned out to be a faerie dragon working for the [[Queen Titania]] of the [[Seelie Court]], named [[Sir Talavar]]. He was trying to report back about the state of the [[The Prismeer|Prismeer]] when he was caught by Bavlorna. He convinced us to help free him.
+		- [x] After freeing him, [[The Limit]] created a decoy to give the Bullywugs for them to return to Bavlorna. They recommended getting an audience with [[King Gullup XIX]] in order to gain access to the hag.\
+	- [x] Free Sir Talavar
+		- [x] The faerie dragon, an agent of the Seelie Court, requested to be free so that he could complete his reconnaissance mission
+		- [x] The Limit used the spell *Gaseous Form* to release the dragon from his cage and received the dragon's sword as thanks
+	- [x] Investigate the swamp pipes
+				- [x] While marching north to find the hag and the King of the Bullywugs, we saw a pipe spewing swamp water into the forest
+				- [x] Upon further investigation, it appeard that the water was turning the woods into a marsh
+				- [x] After dealing with a nearby dretch, [[Gedalia Goomber]] fixed the pipes, leading to an altercation with some swamp treants
+	- [x] Investigate the [[Brigands]]
+		- [x] We were on our way to investigate the fallen air balloon when we were accosted by road bandits
+		- [x] We defeated them, but not before one of them escaped to tell their master [[Agdon Longscarf]]
+		- [x] The owner of the [[Inn at the End of the Road]] told us that the brigands work against the efforts of [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]]
+		- [x] We came across a [[Waterlogged Battlefield]] where we found evidence of a battle between the [[Brigands]] and the [[Bullywugs]]
+		- [x] On our way to [[Downfall]], we came to the [[Brigand's Tollway]] and finally met the brigand's leader, [[Agdon Longscarf]]
+		- [x] He told us that their forest was being slowly destroyed by the efforts of [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]] and her Bullywugs
+		- [x] He made a deal with us in exchange for us defeating [[2. Mechanics/Non-Player Characters/Bavlorna Blightstraw|Bavlorna Blightstraw]] by taking the source of her power—the [[Sands of Time]]
